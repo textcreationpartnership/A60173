@@ -1,0 +1,1357 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sacred poem of the glory and happiness of heaven. By J. S.</title>
+            <author>J. S. (James Shute), 1664-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60173</idno>
+            <idno type="STC">Wing S3713A</idno>
+            <idno type="STC">ESTC R218088</idno>
+            <idno type="EEBO-CITATION">99829714</idno>
+            <idno type="PROQUEST">99829714</idno>
+            <idno type="VID">34157</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60173)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34157)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2002:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sacred poem of the glory and happiness of heaven. By J. S.</title>
+                  <author>J. S. (James Shute), 1664-1688.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year MDCLXXXIX. [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.S. = James Shute.</note>
+                  <note>In verse.</note>
+                  <note>Running title reads: The glory and happiness of heaven.</note>
+                  <note>Some pages foxed, torn, stained.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Heaven --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34157:1"/>
+            <pb facs="tcp:34157:1"/>
+            <p>A SACRED POEM OF THE <hi>Glory and Happineſs</hi> OF HEAVEN.</p>
+            <p>By <hi>J. Shute</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:34157:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:34157:2"/>
+            <head>THE GLORY and HAPPINESS OF HEAVEN.</head>
+            <lg>
+               <l>ABove the talleſt moſt exalted View</l>
+               <l>When ſtretcht and lifted up by Opticks too;</l>
+               <l>Above the Convex of this Azure Vault</l>
+               <l>So out of ſight we can't tell what to call't,</l>
+               <l>High above all that our Conceits can reach</l>
+               <l>When ſublimated to their utmoſt ſtretch,</l>
+               <l>There is, what we call Heav'n, a joyous State</l>
+               <l>Too happy for a Gueſs to calculate:</l>
+               <l>The greateſt Riches that a Miſer's Dream</l>
+               <l>E're conjur'd up to tempt and flatter him</l>
+               <l>The moſt of Honour that a Monarchs Court</l>
+               <l>Can give thoſe Men that hunt and rival for't,</l>
+               <l>The rareſt Scenes that raptur'd Saints have view'd</l>
+               <l>When Fancy wrought in a Prophetick Mood,</l>
+               <l>Fall infinitely ſhort of Heav'n, and can't</l>
+               <l>Yield Joys enough to treat or tempt a Saint:</l>
+               <l>He to whoſe Palate nothing ſuits but Bliſs</l>
+               <l>Can't reliſh ſuch ignoble Fare as this:</l>
+               <l>Alas his noble Soul can't ſtoop to eſteem</l>
+               <l>Things ſo inglorious and unworthy him.</l>
+            </lg>
+            <lg>
+               <l>Heav'n has more Glory couch'd within a Point</l>
+               <l>Than all this worthleſs ſcanty World has in't;</l>
+               <l>'Tis guarded round with double Walls of Gold</l>
+               <l>As hard to force as ſtately to behold,</l>
+               <l>The Batteries which Damned Spirit's make</l>
+               <l>Can't Scale its Bulwarks nor its Pillars ſhake</l>
+               <l>Their Helliſh Engines ſpend their Strength in vain</l>
+               <l>For Bullets ſhot do but rebound again;</l>
+               <l>The gay Embroid'ry of the Place invites</l>
+               <l>All Admiration, and the gaudy Sights</l>
+               <l>Which charm the Eye on ev'ry ſide proclaim</l>
+               <l>The Pow'r and Skill of him that wrought the ſame:</l>
+               <l>'Tis garniſh'd round with Light, and blazon'd all</l>
+               <l>With thoſe bright Rays which from <hi>Gods</hi> Image fall,</l>
+               <l>Thrones and Dominions here in order ſtand</l>
+               <l>Rankt in their Stations like a charging Band;</l>
+               <l>Manſions like Leaves in their Autumnal Falls</l>
+               <l>Lye ſcatter'd up and down on Pedaſtalls;</l>
+               <l>Above hang Canopies of vaſt Extent</l>
+               <l>Propt by the Pow'r of <hi>God</hi> Omnipotent;</l>
+               <l>Scepters and Crowns of coſtly ſorts here are</l>
+               <l>Rank't and enſhrin'd like Magazines of War;</l>
+               <l>Pearls, Rubies and Diamonds in Cluſters ſhine</l>
+               <l>And hang like Grapes upon a fruitful Vine;</l>
+               <l>The bright Piazza's of the Palace Court</l>
+               <l>Are pav'd with Rubies of the richer ſort;</l>
+               <l>Three Royal Thrones all curiouſly wrought</l>
+               <l>Carv'd by the Skill of an Almighty Thought</l>
+               <l>Are fix'd on a commanding Place, wherein</l>
+               <l>The Father, Son, and Spirit Sit and Reign</l>
+            </lg>
+            <pb n="2" facs="tcp:34157:3"/>
+            <lg>
+               <l>Their Crowns are charg'd with richer Pearls and more</l>
+               <l>Than <hi>India</hi> yields or ever <hi>Aaron</hi> wore;</l>
+               <l>And being triple-ſhap'd they do imply</l>
+               <l>The deep-lay'd Myſt'ry of the Trinity;</l>
+               <l>In Godhead theſe are One, in Will the ſame,</l>
+               <l>Yet Three in Perſonality and Name.</l>
+            </lg>
+            <lg>
+               <l>The Fathers Looks are ſo divine, his Face</l>
+               <l>Bears in its Viſage ſuch Majeſtick Grace,</l>
+               <l>That 'tis a Happineſs it ſelf compleat</l>
+               <l>To be enabled to contemplate it:</l>
+               <l>His aſpect is ſo gravely great, and ſhews</l>
+               <l>So much of Deity to him that views,</l>
+               <l>That 'tis a Queſtion manag'd in Diſputes</l>
+               <l>Which do's it moſt This, or his Attributes;</l>
+               <l>He's happy in himſelf, and's Creatures are</l>
+               <l>Happy ſo far as they his Image bear.</l>
+               <l>The Proſpect of his Glory ſhines as bright</l>
+               <l>In Helliſh Darkneſs, as in Heavens Light,</l>
+               <l>He do's enjoy his happy ſelf as well</l>
+               <l>Amidſt the daring Blaſphemies of Hell</l>
+               <l>As the Saints Songs, but he has praiſe of Them</l>
+               <l>Becauſe they bleſs themſelves in bleſſing Him:</l>
+               <l>He is to them both Theatre and Stage</l>
+               <l>And all they act is in his Perſonage</l>
+               <l>His Self-ſufficiency compleatly fills</l>
+               <l>His Breaſt with Goodneſs, ſome of which diſtills</l>
+               <l>In Drops of Love on all his Works, but this</l>
+               <l>Is only what o'reflows from his Abyſs:</l>
+            </lg>
+            <lg>
+               <l>The Son the Second of the Three appears</l>
+               <l>Bright with that Glory which his Image bears;</l>
+               <l>His Throne is ſuch as He that fills it, none</l>
+               <l>Can fancy to be leſs than Three in One.</l>
+               <l>The Hoſt ſalute him <hi>God</hi> and joyntly ſing</l>
+               <l>Hoſannah's to their Prophet, Prieſt, and King;</l>
+               <l>That yet theſe Functions are in act is true</l>
+               <l>For Honour's paid him to each Office due.</l>
+               <l>He's Prophet for his Spirit do's reveal</l>
+               <l>The dark Intendments of his Fathers Will</l>
+               <l>And working with his Word affords us Light,</l>
+               <l>That ſhews us all the deep Deſigns of it.</l>
+               <l>He's Prieſt and makes an Altar of his Throne</l>
+               <l>To offer up the Church her Prayers on,</l>
+               <l>His Interceſſion makes an Off ring good</l>
+               <l>When hallow'd with the Merits of his Blood.</l>
+               <l>He's King, this by his Scepter may be gueſt</l>
+               <l>Beſides his Preſence ſpeaks him ſuch at leaſt;</l>
+               <l>His Church on Earth entitles him Supream</l>
+               <l>And all Heav'ns Hierarchies ſecond them.</l>
+               <l>Embroider'd thus with Offices, and dreſt</l>
+               <l>With all that ſpeak one Beautiful or Bleſt,</l>
+               <l>He ſits enthron'd and naked to the View</l>
+               <l>Of thoſe that wonder and adore him too.</l>
+            </lg>
+            <lg>
+               <l>The Holy Ghoſt the Laſt in Order ſhews</l>
+               <l>Himſelf as great as Son or Father do's.</l>
+               <l>His Preſence is Divine his looks do own</l>
+               <l>A Grandeur proper to a God alone:</l>
+               <l>The Beauty of his Image do's expreſs</l>
+               <l>A ſhining, pure, untainted Holineſs;</l>
+               <l>His Graces ſweeter Odours do preſent</l>
+               <l>Than e're <hi>Arabia</hi> from her Spices ſent</l>
+               <l>The Gifts wherewith he is embalm'd deſcry</l>
+               <l>The Sweetneſſes that in his Nature lye</l>
+            </lg>
+            <pb n="3" facs="tcp:34157:3"/>
+            <lg>
+               <l>The Grace and Greatneſs of his Preſence draws</l>
+               <l>The Eyes of all Spectators, where they pauſe</l>
+               <l>Not out of Fear but Wonder while they ſee</l>
+               <l>So much of Sweetneſs, Love, and Majeſty:</l>
+            </lg>
+            <lg>
+               <l>Before theſe Thrones the whole Celeftial throng</l>
+               <l>Do Homage, Couching as they dance along,</l>
+               <l>Where each devoutly on his bended Knee,</l>
+               <l>Lauds the diſtinct, but undivided Three;</l>
+            </lg>
+            <lg>
+               <l>The Fathers mighty Will and matchleſs Pow'r</l>
+               <l>Are what in Him they moſt of all adore;</l>
+               <l>The Saints rejoyce in theſe becauſe they know</l>
+               <l>Theſe made them happy and will keep them ſo.</l>
+               <l>They bleſs that Word whoſe mighty ſound awoke,</l>
+               <l>Dull lifeleſs Nothing to a World, and ſpoke</l>
+               <l>A lumpiſh Chaos to a curious Frame,</l>
+               <l>And ſtill has govern'd and upheld the ſame.</l>
+               <l>They reverence his Greatneſs moſt, and bow</l>
+               <l>To the grave Grandeur of his Godly Brow.</l>
+               <l>Their low reſpectful poſtures plainly prove</l>
+               <l>Their filial Senſe of his Paternal Love.</l>
+               <l>They praiſe his Works below and ſing them forth</l>
+               <l>In Numbers meaſur'd to expreſs their Worth,</l>
+               <l>But when they view thoſe Inſtances of Love,</l>
+               <l>That make more Figure in his Works Above;</l>
+               <l>When they ſurvey the whole Celeſtial Sphere</l>
+               <l>And paraphraſe on all the Wonders there,</l>
+               <l>They tune to higher ſtrains and make their praiſe,</l>
+               <l>Keep pace with what Deſerts its Object has.</l>
+               <l>So then <hi>Gods</hi> Power moſt applauded ſeems</l>
+               <l>Nay 'tis the Burden of their Sacred Hymns.</l>
+            </lg>
+            <lg>
+               <l>The Sons Perfections they as much proclaim</l>
+               <l>Couching in Homage to his Sacred Name.</l>
+               <l>They honour him as Soveraign, and own</l>
+               <l>How much they hold by Vertue of his Crown;</l>
+               <l>They Stile him <hi>Prince of Peace,</hi> and all accord</l>
+               <l>In dutiful Allegiance to their Lord;</l>
+               <l>His Name of Saviour ſounds ſo ſweet to all</l>
+               <l>It makes their Raptures Epidemical.</l>
+               <l>His bright unmantled Glory ſpreads it's Rays</l>
+               <l>And heats their ſpirits to delight and praiſe.</l>
+               <l>Some his Humility extol, and ſome</l>
+               <l>His Love that made Man from his Manſion come.</l>
+               <l>Some his Example, ſome his Doctrine bleſs,</l>
+               <l>Some his Compaſſion, ſome his Holineſs;</l>
+               <l>All joyn his Incarnation to adore</l>
+               <l>That Bleſſing which begat ten thouſand more.</l>
+               <l>Thus all in tributary Songs applaud</l>
+               <l>Their Prophet, Prieſt, their King and <hi>God.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Holy Ghoſt whoſe Godhead is the ſame</l>
+               <l>Has Adoration proper to his Name.</l>
+               <l>Thoſe of his Excellences that appear</l>
+               <l>In's Gifts and Graces moſt applauded are.</l>
+               <l>Some bleſs him for thoſe firſt Convictive Calls</l>
+               <l>That kindly warn'd them againſt After-falls.</l>
+               <l>Some for Converting Grace from whence they had</l>
+               <l>Good Habits giv'n to ſuperſede the Bad.</l>
+               <l>Some for his Promiſes that baniſh't Cares</l>
+               <l>And taught their Faith to overcome their Fears.</l>
+               <l>Some for his Teſtifying Seal that gave</l>
+               <l>Aſſurance of the Joys they hop'd to have.</l>
+            </lg>
+            <pb n="4" facs="tcp:34157:4"/>
+            <lg>
+               <l>Some for the Comforts of his Preſence here</l>
+               <l>Which cheer'd their Hearts whate're their Sorrows were,</l>
+               <l>Which after Tryal of their Faith did quite</l>
+               <l>Take off the Croſs or make it ſit but light.</l>
+               <l>Some honour this, ſome That Grace moſt of All,</l>
+               <l>Yet their diſcordant Praiſe is muſical;</l>
+               <l>For all in one harmoniouſly cloſe</l>
+               <l>As diff'ring Muſick in a Chorus do's.</l>
+            </lg>
+            <lg>
+               <l>Thus Three in One and One in Three receive</l>
+               <l>The pers'nal Homage Holy Spirits give;</l>
+               <l>But tho' They are diſtinctly bleſt, no One</l>
+               <l>Has Praiſe for what the other Two have none;</l>
+               <l>Neither in Glory or in Might excels</l>
+               <l>But in Perfection they are Parallels.</l>
+               <l>Yet this Deſcription is not with Deſign</l>
+               <l>To graſp the Godhead nor its Bounds define;</l>
+               <l>To aim to ſcan or draw it out to view,</l>
+               <l>Would be Preſumption and loſt Labour too:</l>
+               <l>Who knows how <hi>God's</hi> diſtinctly Three in One</l>
+               <l>And One in Three without Diviſion?</l>
+               <l>Who underſtands and will explain to me</l>
+               <l>This num'rous One and yet unnumbred Three?</l>
+               <l>'Tis too Myſterious for our Faith to clear,</l>
+               <l>He that believes muſt never reaſon here.</l>
+               <l>'Tis Riddle to the Saints and little leſs</l>
+               <l>To the deep Inſight of an Angel's Gueſs.</l>
+               <l>Oh topleſs Pile of Myſteries! its Height</l>
+               <l>Is undiſcoverably out of Sight.</l>
+               <l>Our Reaſon when it proudly tries to view</l>
+               <l>Quickly grows giddy and confounded too:</l>
+               <l>'Tis too much Light for Mortal Eyes to bear,</l>
+               <l>'Tis inacceſſibly Divine and clear;</l>
+               <l>I aim not then by this deſcriptive Gueſs</l>
+               <l>To found the Depth of what is bottomleſs.</l>
+               <l>If any Verſe ſhall make the Riddle known</l>
+               <l>Some Angel-Laureat muſt drop it down;</l>
+               <l>This Height will keep its Myſtick Diſtance ſtill</l>
+               <l>In ſpight of Reaſon's counter-charming Skill;</l>
+               <l>Since then the more I look the leſs I ſee</l>
+               <l>Of what in Mercy is conceal'd from me,</l>
+               <l>I'le henceforth plainly take the Three in One</l>
+               <l>And mean them All when I name <hi>God</hi> alone.</l>
+            </lg>
+            <lg>
+               <l>But as the Deity can ne're admit</l>
+               <l>A Short-arm'd Human Thought to fathom it,</l>
+               <l>So punctually to copy out the Bliſs</l>
+               <l>Which to the Saints in Heaven diſpenced is,</l>
+               <l>Is more than Reaſon's able to direct</l>
+               <l>Me to perform or any to expect;</l>
+               <l>In Nature's Search we to the Cauſe advance</l>
+               <l>Before we can inform our Ignorance;</l>
+               <l>To judge of Acts we muſt their Objects know,</l>
+               <l>Elſe as unlearn'd as when we came we go.</l>
+               <l>So to proportion out the boundleſs Love,</l>
+               <l>That is imparted to the Bleſt Above;</l>
+               <l>We ought to underſtand the Fountain whence</l>
+               <l>Theſe happy Souls derive their Influence.</l>
+               <l>What's in th' Effect is in the Cauſe be ſure,</l>
+               <l>Streams won't run muddy if the Spring be pure.</l>
+               <l>Firſt to know <hi>God</hi> do's neceſſary ſeem</l>
+               <l>To know the Happineſs of Souls in Him,</l>
+            </lg>
+            <pb n="5" facs="tcp:34157:4"/>
+            <lg>
+               <l>But Spirits are ſo exquiſitely fine</l>
+               <l>They ſcape our Notices and paſs unſeen;</l>
+               <l>And if our Reaſon can't diſcourſe of Theſe</l>
+               <l>Who knows what <hi>God</hi> the Father of them is?</l>
+               <l>So then I'le only ſpeak my Thoughts and give</l>
+               <l>This looſe Account of what the Bleſt receive;</l>
+            </lg>
+            <lg>
+               <l>The Throne Imperial is encompaſs'd round</l>
+               <l>With Guardian-Angels to their Stations bound;</l>
+               <l>Theſe glitt'ring Courtiers all of Royal Blood</l>
+               <l>Seem by their Services to credit <hi>God;</hi>
+               </l>
+               <l>Each in the Brightneſs of his Glory ſpreads</l>
+               <l>More Rays of Luſtre than proud Phoebus ſheds,</l>
+               <l>But yet thoſe Beams in which they ſhine ſo bright</l>
+               <l>Are all reflected from Diviner Light.</l>
+               <l>They borrow all their Beauty which would ſoon</l>
+               <l>Decline and fade if <hi>God</hi> ſhould hide his own.</l>
+               <l>Their diff'rent Orders comlily agree</l>
+               <l>And joyntly make a graceful Symmetry.</l>
+               <l>All know their Diſtance and devoutly give</l>
+               <l>To <hi>God</hi> the Rights of his Prerogative:</l>
+            </lg>
+            <lg>
+               <l>Next theſe there do's another Order wait</l>
+               <l>Of Beings leſs inſufferably great,</l>
+               <l>I mean the Saints whoſe Faith and Patience ſought</l>
+               <l>This Purchaſe which their Elder Brother bought;</l>
+               <l>Whoſe thrifty Stewardſhip of Talents gain'd</l>
+               <l>Theſe large Poſſeſſions in the Holy Land;</l>
+               <l>Of Theſe, the Patriarchs (from whom proceed</l>
+               <l>The num'rous Offspring call'd the Holy Seed)</l>
+               <l>With all their pious Progeny beſet</l>
+               <l>Are here in Univerſal Council met.</l>
+            </lg>
+            <lg>
+               <l>Hard by aſſembled in a ſpatious Sphere</l>
+               <l>The grave Society of Prophets are;</l>
+               <l>Theſe are a Sage Prognoſticating Race</l>
+               <l>Exalted by the Chymiſtry of Grace,</l>
+               <l>Above the Vulgar Saints; their Office proves</l>
+               <l>Them more Divine by two or three Removes.</l>
+               <l>They ſit all clad in the Myſterious Dreſs</l>
+               <l>Of Hieroglyphick Schemes and Images,</l>
+               <l>The Pageantry of their Prophetick Dreams</l>
+               <l>Is painted in their Robes, the Myſtic Schemes</l>
+               <l>Of Types and Viſions drawn in Perſpective,</l>
+               <l>Make pictur'd Things ſeem to the Eye alive:</l>
+               <l>Thus gayly dreſt in party-colour'd Plumes</l>
+               <l>They ſit like Limners in their Image-Rooms:</l>
+            </lg>
+            <lg>
+               <l>By theſe as near as Order will permit</l>
+               <l>The grave Apoſtles in a Synod meet.</l>
+               <l>Theſe by their Preſence would be gueſs'd to be</l>
+               <l>Committee-Saints or <hi>Patres Patriae;</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Hard by the Martyr'd Champions of the <hi>Croſs</hi>
+               </l>
+               <l>That dy'd leaſt Life ſhould be a publick Loſs,</l>
+               <l>Whoſe Courage to the Death unſhaken ſtood</l>
+               <l>And wrote their Cauſe in Characters of Blood.</l>
+               <l>Rang'd in Battalia joyfully advance</l>
+               <l>Their dear bought Spoils of Faith and Patience.</l>
+            </lg>
+            <lg>
+               <l>Theſe and a thick innumerable Hoſt</l>
+               <l>Swarming throughout the whole Celeſtial Coaſt,</l>
+               <l>Stand all devoutly ready to fulfil</l>
+               <l>The welcom Orders of their Makers Will:</l>
+               <l>And they are done juſt as they are embrac't</l>
+               <l>With a moſt Zealous Cautionary Haſt;</l>
+               <l>'Tis neither baſe nor ſervile to ſubmit,</l>
+               <l>They work <hi>Gods</hi> Will and will in working it;</l>
+            </lg>
+            <pb n="6" facs="tcp:34157:5"/>
+            <lg>
+               <l>No Time nor Strength is in a Meſſage ſpent</l>
+               <l>The Errand's done as ſoon's the Saint is ſent;</l>
+               <l>Thus <hi>God</hi> and They are pleas'd in that as ſoon</l>
+               <l>As his Deſign is known to Them, 'tis don:</l>
+               <l>Nor do's their Zeal in Miniſtring decline</l>
+               <l>Its ſtrength is Energetic and Divine;</l>
+               <l>It knows no Chills and is from Pauſes free</l>
+               <l>There acting where 'twould always active be;</l>
+               <l>Thus the Employments which they here purſue</l>
+               <l>Are both their Buſineſs and Diverſion too:</l>
+               <l>Delight is all they know, here's only That</l>
+               <l>For Souls to feed upon and center at:</l>
+               <l>They find a happy Welcome here, and are</l>
+               <l>Enobled for the Dignities they wear.</l>
+               <l>Their Souls and Bodies are refin'd and freed</l>
+               <l>Of thoſe Infirmities Corruption breed;</l>
+               <l>They both receive ſuch great Improvements here</l>
+               <l>That they take leave of being what they were.</l>
+            </lg>
+            <lg>
+               <l>The Soul now faſhion'd in a purer Mould</l>
+               <l>Finds its New-make more noble than the old.</l>
+               <l>Its Powers thoſe of Intellect and Will</l>
+               <l>Are much improv'd by Glory's Chymic Skill;</l>
+               <l>Its Knowledge is not ſeconded with Fear</l>
+               <l>Or jealous Doubts of ſome Deluſion near;</l>
+               <l>It learns but labours not nor is afraid</l>
+               <l>It ſhall forget what in it ſelf is laid;</l>
+               <l>It knows by Intuition, and has got</l>
+               <l>The ſweet Advantage of the Shorter Cut;</l>
+               <l>No cloudy Doubts do intercept its ſight</l>
+               <l>'Tis now embodied in a Veſt of Light.</l>
+               <l>Paſſion and prejudice are Things unknown</l>
+               <l>And Ignorance that Brand of Sin is gon.</l>
+               <l>Organs and Opticks now would match it ill,</l>
+               <l>
+                  <hi>Saul</hi>'s Armour did but cumber <hi>David</hi>'s Skill.</l>
+               <l>Theſe do but cheat and give a faithleſs Light</l>
+               <l>Juſt like an <hi>Ignis Fatuus</hi> in the Night,</l>
+               <l>Which treacherouſly leads the Pilgrim on</l>
+               <l>Pretending Kindneſs when it means him none.</l>
+               <l>It needs no painful ſearches to deſcry</l>
+               <l>Where Truths tho' hid in Intricacy's lye,</l>
+               <l>For all in naked view and proſpect ſit</l>
+               <l>Unfolding ev'n they Secrecies to it.</l>
+               <l>It ſpies a ſeries of Things without</l>
+               <l>A gradual Diſcourſe to find them out.</l>
+               <l>It ſees how amicably Truths cohere</l>
+               <l>How diff'rent Notions claſh and interfere;</l>
+               <l>A Glance now brings more ſecrets on the Stage</l>
+               <l>Than the leſs-fruitful Studies of an Age;</l>
+               <l>Nor can Saints doubt or erre for what they know</l>
+               <l>Is ſure in Object and in Subject too:</l>
+               <l>Their Souls too thirſty to accept a ſtream</l>
+               <l>Have here the Spring of Truth unlock't to them,</l>
+               <l>And ah! how joyfully they bathe herein</l>
+               <l>They drink till drinking makes them dry agen.</l>
+               <l>And ſure this eaſie way of knowing can't</l>
+               <l>But aggravate the pleaſures of a Saint;</l>
+               <l>To know himſelf to be directed right</l>
+               <l>By the ſure Guide of undeceived Light,</l>
+               <l>To have all Cheats and Sophiſtry remov'd</l>
+               <l>And ſee each Truth by its Exemplar prov'd;</l>
+               <l>This cannot chuſe but pleaſe him and the more</l>
+               <l>Becauſe unhappy in his Doubts before.</l>
+               <l>Alas imperfect Knowledge here on Earth</l>
+               <l>Tho' <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to gain and painful in the Birth:</l>
+            </lg>
+            <pb n="7" facs="tcp:34157:5"/>
+            <lg>
+               <l>Tho' mixt with Doubts and never ſifted clean</l>
+               <l>But ſome perplexities ſtill intervene,</l>
+               <l>Is thought the beſt Endowment Nature can</l>
+               <l>Give to compleat and gratifie a man.</l>
+               <l>'Tis true the ſearch is long and far about</l>
+               <l>Yet when a latent Truth is ſtarted out</l>
+               <l>How comfortable is it then, how good</l>
+               <l>To make a few Reviews and chew the Cud!</l>
+               <l>This Men call Pleaſure and purſue as ſuch</l>
+               <l>But that of Saints ſurpaſſes it by much;</l>
+               <l>VVhat the Soul knows on Earth is hardly gain'd,</l>
+               <l>VVhat here, like <hi>Jacobs Veniſon</hi> comes to hand:</l>
+               <l>Here't has the Garb of Light wherewith 'tis clad</l>
+               <l>As cheap and eaſie as the Lillies had,</l>
+               <l>It never brings a Matter to debate</l>
+               <l>But knows it e're it can deliberate.</l>
+               <l>Alas their Knowledge is as quick and free</l>
+               <l>As the Conception of a Thought can be.</l>
+               <l>It takes the compaſs which their Fancies run</l>
+               <l>Whate're they VVill or wiſh to know is known.</l>
+               <l>The Soul thus purg'd from Ignorance and Sin</l>
+               <l>Is all Illumination within;</l>
+               <l>'Tis pleas'd in knowing how it knows and doth</l>
+               <l>Draw Pleſure from the Mode and Object both.</l>
+               <l>Truth is its ſtanding Banquet and the Feaſt</l>
+               <l>Has Plenty fitted for the greedy Gueſt.</l>
+            </lg>
+            <lg>
+               <l>The Underſtanding now awakned ſees</l>
+               <l>The Truth of Things it thought falſe Prophecies.</l>
+               <l>A ſtate of endleſs Pleaſure once did ſeem</l>
+               <l>The fond Illuſion of a ſickly Dream:</l>
+               <l>Joys in Reverſion were but gilded Lyes</l>
+               <l>And Heaven it ſelf but ſome Fools Paradiſe;</l>
+               <l>And tho' Faith taught it ſome believing Skill</l>
+               <l>Yet Carnal Scruples kept it doubting ſtill;</l>
+               <l>But now all faithleſs Jealouſies are fled</l>
+               <l>And full Aſſurance introduc'd inſtead;</l>
+               <l>And Reaſon taught by what it has receiv'd</l>
+               <l>Owns with a Witneſs all it disbeliev'd;</l>
+            </lg>
+            <lg>
+               <l>The Will's now rectify'd and ſetled well</l>
+               <l>In that free happy Frame from whence it fell;</l>
+               <l>
+                  <hi>God's</hi> Goodneſs is its Object whoſe alone</l>
+               <l>Yields an Infinity to act upon.</l>
+               <l>How greedily it faſtens here? it makes</l>
+               <l>Eternal ſeiſure on the Good it takes.</l>
+               <l>It feeds as hungrily as if it knew</l>
+               <l>Some Famine would the preſent feaſt enſue,</l>
+               <l>And do's the Zeal of its Approaches prove</l>
+               <l>By the ſtrong efforts of a ſprightly Love.</l>
+               <l>It gapes as if it thought its Nature might</l>
+               <l>Suck in and ſwallow down the Infinite;</l>
+               <l>It claſps about him, graſps, and graſps agen</l>
+               <l>Still thruſting out it ſelf to take him in.</l>
+               <l>Its paſſionate Embraces plainly ſhew</l>
+               <l>That 'tis enamour'd and tranſported too.</l>
+               <l>Thus 'tis employ'd and will for ever be</l>
+               <l>Raptur'd in one Eternal Extaſie.</l>
+            </lg>
+            <lg>
+               <l>The Faculties of Soul being thus renew'd</l>
+               <l>Are ballanc'd to their proper Rectitude.</l>
+               <l>The Reaſon governs by prudential Skill</l>
+               <l>Ne're Taxes nor exacts upon the Will,</l>
+               <l>Its mild Decretals are embrac't ſo ſoon</l>
+               <l>As the leaſt Intimation makes them known.</l>
+            </lg>
+            <pb n="8" facs="tcp:34157:6"/>
+            <lg>
+               <l>The Will train'd up on purpoſe to ſubmit</l>
+               <l>Is wholly temper'd to comply with it;</l>
+               <l>No Prejudices interrupt its Choice,</l>
+               <l>No Paſſions bribe it to ſuſpend its Voice,</l>
+               <l>But what its Guide enjoyns it ſtrait obeys</l>
+               <l>Without the leaſt exceptionary Pauſe.</l>
+               <l>The Reaſon's pleas'd that his propoſals have</l>
+               <l>Such kind Acceptance from his willing Slave.</l>
+               <l>The Will is gladded too in that it knows,</l>
+               <l>Whate're unerring Wiſdom ſhall propoſe</l>
+               <l>Muſt needs be good; and therefore loves to chuſe</l>
+               <l>What would appear Self-murther to refuſe.</l>
+               <l>Thus both are pleas'd and from their being ſo</l>
+               <l>Proceeds the greateſt pleaſure Spirits know.</l>
+            </lg>
+            <lg>
+               <l>The Fancy too has here a lovely Scene</l>
+               <l>Of beauteous Viſions to entertain,</l>
+               <l>All Heavens Glories in one Object meet,</l>
+               <l>That all at once may always raviſh it;</l>
+               <l>Nay 'tis delighted to ſo ſtrange a Height</l>
+               <l>It has the Joys it can it ſelf create:</l>
+               <l>Thoſe tempting pleaſures which a working Brain</l>
+               <l>Can paint in proſpect to delude a man,</l>
+               <l>Their Fancy's here by an Almighty Pow'r</l>
+               <l>Can reallize; and raiſe ten Thouſand more.</l>
+               <l>Thus 'tis employ'd Eternally to ſeize,</l>
+               <l>Some <hi>New-found-Lands</hi> of Joy and Happineſs.</l>
+            </lg>
+            <lg>
+               <l>The Soul thus pure, the Body muſt be dreſt</l>
+               <l>To welcom in this Honourable Gueſt:</l>
+               <l>Which when the Dormitories ſhall reſign</l>
+               <l>The Sacred Duſt of Saints they did enſhrine;</l>
+               <l>When Graves ſhall offer up their Dead and give</l>
+               <l>All to an Atom which they did receive,</l>
+               <l>Shall be accompliſh't to the great Delight</l>
+               <l>Of all that view the Glory of the Sight;</l>
+               <l>The ſcatter'd Portions re-united then</l>
+               <l>Shall to their Bodies be compos'd agen.</l>
+               <l>Which being new-inform'd and nobler made</l>
+               <l>Shall re-aſſume the former Souls they had.</l>
+               <l>But no pale Face, no feeble Joynts preſume</l>
+               <l>To enter, here no peccant Humors come</l>
+               <l>To uſher Sickneſs in, no ſenſe of pain</l>
+               <l>No Weakneſſes or Laſſitude remain;</l>
+               <l>All the Infirmities of Youth and Age</l>
+               <l>Are forc'd to vaniſh and decline the Stage.</l>
+               <l>For tho' the Body roſe yet theſe muſt ſtay</l>
+               <l>Where the Soul left them when it fled away.</l>
+               <l>And here it do's a new Dimenſion gain</l>
+               <l>As glorious as its Nature can ſuſtain;</l>
+               <l>A juſt proportion is to it aſſign'd</l>
+               <l>It leaves all groſs ignoble parts behind;</l>
+               <l>Corruptions and Infirmities are gon</l>
+               <l>And a new livelier Image faſtened on.</l>
+               <l>Conſiſtency muſt always be its ſtate</l>
+               <l>VVherein it ſhines pure and immaculate;</l>
+               <l>It can not Youth nor Age from Time receive,</l>
+               <l>But in Eternal Springs of Years ſhall live;</l>
+               <l>It lives, but to Declenſion ne're ſhall grow</l>
+               <l>Its budding Verdure ſhall no <hi>Autumn</hi> know.</l>
+               <l>Its Countenance do's ſuch a freſhneſs yield,</l>
+               <l>As baffles far the Glories of the Field.</l>
+               <l>Such Lights and Flames its Viſage do's diſperſe</l>
+               <l>As would illuminate the Univerſe.</l>
+               <l>Its Senſes alſo great Advancements gain</l>
+               <l>Fit for the Objects they muſt entertain:</l>
+            </lg>
+            <pb n="9" facs="tcp:34157:6"/>
+            <lg>
+               <l>Senſes I call them ſtill, but 'tis for want</l>
+               <l>Of Terms more proper and ſignificant;</l>
+               <l>Nor do all theſe perhaps admittance find,</l>
+               <l>'Tis probable that ſome are left behind,</l>
+               <l>As Taſte and Smell; but all do Hear and See</l>
+               <l>Elſe when ſhall Faith to Viſion changed be?</l>
+               <l>VVhich Two I think are ſo endow'd that they</l>
+               <l>Have all their Imperfections purg'd away.</l>
+               <l>For if by Grace we're chang'd from what we were</l>
+               <l>VVhy ſhould not Glory make ſuch Changes here?</l>
+               <l>But whether here are Some, or All, or None</l>
+               <l>To own or not is free for any One.</l>
+               <l>This we believe, All Requiſites concur</l>
+               <l>To make the Body glorious and pure.</l>
+            </lg>
+            <lg>
+               <l>Body and Soul thus dignified are dreſt</l>
+               <l>To ſolemnize a ſecond Marriage Feaſt.</l>
+               <l>No jarring Faculties untune the Soul</l>
+               <l>But all conform to Reaſon's Muſick Rule.</l>
+               <l>Its Thoughts are calm and find an eaſie Vent,</l>
+               <l>Its Paſſions are all Love and Merriment;</l>
+               <l>Its Humors even, ſociable, and ſweet,</l>
+               <l>Its Pleaſures conſtant and intenſely great;</l>
+               <l>Its Virtues all are conſonantly tun'd</l>
+               <l>And dance in Conſort when they run their Round.</l>
+               <l>No croſs Propenſions counterſtrive within,</l>
+               <l>No ſtubborn Humors claſh and intervene;</l>
+               <l>No Averſations cramp the Will's Decrees,</l>
+               <l>No Stops arreſt it in its Purpoſes.</l>
+               <l>But all ſuch civil Altercations ceaſe</l>
+               <l>And uſher in an univerſal Peace;</l>
+            </lg>
+            <lg>
+               <l>The Body too is well in Frame, the Tongue</l>
+               <l>Speaks of no Parts that ſuffer Want or Wrong;</l>
+               <l>All factious Inſurrections are ſuppreſt,</l>
+               <l>Its Work is Eaſe, and all its Labours Reſt.</l>
+               <l>No ſickly Faſtings made its Beauty Fade,</l>
+               <l>No Pains nor Hardſhips do its Strength invade;</l>
+               <l>The Veins are Channels only to conveigh</l>
+               <l>The Peaceful Inundations of Joy.</l>
+               <l>The Nerves grow big and conſciouſly proud</l>
+               <l>As being inſpirited with nobler Bloud.</l>
+               <l>All parts in their Relation to the whole</l>
+               <l>Do dutifully joyn to ſerve the Soul.</l>
+               <l>Whoſe Precepts being mild the Body has</l>
+               <l>An eaſier Service than its former was.</l>
+               <l>Thus One has no Rebellious Luſts to tame,</l>
+               <l>The other no Severities to blame;</l>
+               <l>But both their mutual Affections prove.</l>
+               <l>By interchangeable Returns of Love.</l>
+            </lg>
+            <lg>
+               <l>Now when th' Elect ſhall from the Quarters come</l>
+               <l>To be poſſeſt of their Eternal Home</l>
+               <l>When at the Judgment of the Juſt the Saints</l>
+               <l>Shall take their ultimate Accompliſhments.</l>
+               <l>Then Soul and Body ſhall unite, that Both</l>
+               <l>When joyn'd may make what neither ſingle doth.</l>
+               <l>What joyful Ecchoings will then rebound?</l>
+               <l>How will the Cloyſters and Piazzas ſound?</l>
+               <l>VVhat Acclamations will the Legions make?</l>
+               <l>How will the Kingdom and its Pillars ſhake?</l>
+               <l>VVhat a glad aſpect will the Heavens wear</l>
+               <l>VVhen this great Marriage Rites in Action are?</l>
+               <l>How will Praiſe ſound amidſt the jolly Crew</l>
+               <l>VVhen ev'ry Saint is Bride and Bridegroom too?</l>
+               <l>Oh bleſſed Harmony when All in One,</l>
+               <l>Sing ſacred Hymens in a Bridal Tune!</l>
+               <pb n="10" facs="tcp:34157:7"/>
+               <l>This glad triumphant Day Bleſt Spirits ſtate</l>
+               <l>The Epocha for their Eternal Date;</l>
+               <l>So will I date theſe Lines, and as I go</l>
+               <l>Still take that Time as if 'twas preſent now.</l>
+            </lg>
+            <lg>
+               <l>Now Divine Wiſdom do's it ſelf reveal</l>
+               <l>And all thoſe Depths it did ſo long conceal;</l>
+               <l>Ah what a lovely ſight is This? and how</l>
+               <l>Do Saints in Praiſe and Admiration bow!</l>
+               <l>How do's it gratifie their Souls to ſee</l>
+               <l>The faithful Records of Eternity!</l>
+               <l>Theſe Legends ſhew how God did firſt create</l>
+               <l>Things in that Order they continue yet.</l>
+               <l>Theſe Comment on the World and repreſent</l>
+               <l>A Modul of its Make and Government.</l>
+               <l>They teach them how his grand Deſigns were laid,</l>
+               <l>What Iſſues and Reſults his Counſels had,</l>
+               <l>How his deep Thoughts and Purpoſes were wrought</l>
+               <l>To that effect which moſt advantage brought.</l>
+               <l>The <hi>Southern</hi> Queen thought it a happy Thing</l>
+               <l>To hear the Wiſdom of a <hi>Jewiſh</hi> King;</l>
+               <l>But here's that Happineſs as much out-don</l>
+               <l>As <hi>God</hi> is Wiſer than King <hi>Solomon.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>His Power alſo ſtands in View, and ſhews</l>
+               <l>It ſelf as Glorious as his Wiſdom do's,</l>
+               <l>'Tis neither terrible to view nor meet</l>
+               <l>Allays of Love do ſo attemper it.</l>
+               <l>On Earth his Preſence dreadful we believe</l>
+               <l>We know we can't behold his Face and live;</l>
+               <l>But here theſe Boſom-Favourites do treat</l>
+               <l>With <hi>God</hi> their Sov'raign as their Intimate:</l>
+               <l>Now they delight to ſee and feel the hand</l>
+               <l>That fix'd the Heavens in the Place they ſtand,</l>
+               <l>That rais'd this Earthly Frame, and did ſubdue</l>
+               <l>The Pow'r of Men and Rage of Devils too.</l>
+               <l>That ſav'd his Flock when Wolves about it ſtood</l>
+               <l>Threatning its Death thirſting for its Bloud.</l>
+               <l>That turn'd the Wheel of Providence about</l>
+               <l>And order'd all things that were faſtned to't.</l>
+               <l>That made croſs Diſpenſations work for Good,</l>
+               <l>And all things work as 'twas his Will they ſhould</l>
+               <l>The ſight of this ſo heightens their delight</l>
+               <l>That all their Joys are aggravated by't;</l>
+            </lg>
+            <lg>
+               <l>If Pow'r and VViſdom ſo delightful are</l>
+               <l>How will the Aſpects of his Love appear?</l>
+               <l>Sure this endearing Spectacle do's want</l>
+               <l>Nought that may raviſh and tranſport a Saint;</l>
+               <l>VVhen Love ſhall ſhew it ſelf without a Vail</l>
+               <l>And nothing of its Lovelineſs conceal;</l>
+               <l>When it ſhall ſmile without a frown and dart</l>
+               <l>Its Beams direct to the Spectators Heart.</l>
+               <l>VVhen Saints ſhall ſee that gracious Breaſt wherein</l>
+               <l>Love from Eternity has active been,</l>
+               <l>Whence all deſigns of Mercy did proceed,</l>
+               <l>VVhere all great Acts of Grace were born and bred:</l>
+               <l>VVhen they ſhall ſee what made <hi>God's</hi> only Son</l>
+               <l>Put off his Glory and deſert his Throne.</l>
+               <l>VVhat made him condeſcend to take a Birth</l>
+               <l>And pitch his Tabernacle here on Earth.</l>
+               <l>VVhy 'twas that he with ſuch ſubmiſſion dy'd</l>
+               <l>And pray'd that he might live who pierc'd his ſide?</l>
+               <l>Their Souls ſing Anthems with a freer Vent</l>
+               <l>Being rapt beyond themſelves in Raviſhment;</l>
+               <l>Let him that can their Joyfulneſs expreſs</l>
+               <l>I wont confine it to my ſcanty Gueſs.</l>
+            </lg>
+            <pb n="11" facs="tcp:34157:7"/>
+            <lg>
+               <l>And as the ſight of theſe foments their Bliſs</l>
+               <l>So do's the proſpect of his Holineſs.</l>
+               <l>Alas this cannot chuſe but give Delight</l>
+               <l>They live and move and have their Beings by't;</l>
+               <l>Self-Love would make them long to have this ſeen</l>
+               <l>Being what themſelves are made and moulded in;</l>
+               <l>To ſee a Being ſo intenſely pure</l>
+               <l>That nothing can exalt or drain it more;</l>
+               <l>A Nature ſo untaintedly Divine,</l>
+               <l>So ſpiritually ſpotleſs, and ſo fine;</l>
+               <l>So ſimple, lovely, and endearing too,</l>
+               <l>Muſt needs exaſperate their Joys anew.</l>
+            </lg>
+            <lg>
+               <l>Thus theſe Perfections and as many more</l>
+               <l>As endleſs Sums can add unto the ſcore,</l>
+               <l>Or <hi>God</hi> that owns them only knows are ſeen,</l>
+               <l>By thoſe glad Eyes which always ſuck them in;</l>
+               <l>And what a Proſpect entertains their ſight</l>
+               <l>With an unbounded Province of Delight;</l>
+               <l>In him there are ſo many Things that call</l>
+               <l>For Admiration, that the Angels all</l>
+               <l>Together with the Saints ſtill eye their <hi>God</hi>
+               </l>
+               <l>And hover in the Light of his Abode:</l>
+               <l>Now Happineſs is all they do purſue</l>
+               <l>They've that of Viſion and Fruition too.</l>
+               <l>Their full ey'd Souls have now a ſtrength to bear</l>
+               <l>
+                  <hi>Gods</hi> Glory tho' its Brightneſs do's appear.</l>
+               <l>They're ſo intent on Viſion, that they ſeem</l>
+               <l>To prey on <hi>God</hi> whileſt they are viewing him;</l>
+               <l>Their Eyes behold with ſuch a thirſty Zeal</l>
+               <l>That where they ſet them firſt they ſettle ſtill;</l>
+               <l>They look till what they for their Object had,</l>
+               <l>By Transformation is their Beings made.</l>
+               <l>For <hi>God,</hi> while they behold him, do's impart</l>
+               <l>Some of himſelf to each Spectators Heart,</l>
+               <l>And ſtill the more they look the more they ſeem</l>
+               <l>To have of what they view and praiſe in him;</l>
+               <l>And thus his Likeneſs is impreſt and wrought</l>
+               <l>In all the Parts and Pow'rs the Saints have got.</l>
+               <l>'Tis ſtampt in lively Lines, its parts are all</l>
+               <l>Drawn full and perfect, clear and ſymmetral.</l>
+               <l>This Image is not like an outward Grace</l>
+               <l>Drawn to imbelliſh and adorn a Face,</l>
+               <l>'Tis rather radicated and innate</l>
+               <l>Wholly transformative and intimate;</l>
+               <l>It is the Principle that do's begin</l>
+               <l>Eternal Peace and Harmony within;</l>
+               <l>By this the Soul in Act and Habit too,</l>
+               <l>Is taught its Good and Glory to purſue;</l>
+               <l>'Tis wholly bent on Duty and do's own</l>
+               <l>That Happineſs and That is all but one.</l>
+               <l>Now holy Actings are in Flux, and run</l>
+               <l>Free from their Souls like Atoms from the Sun.</l>
+               <l>Each Action now is raviſhing and ſweet</l>
+               <l>Such large Rewards of Pleaſure wait on it.</l>
+               <l>Each Saint is now ſo beautiful and bright</l>
+               <l>He is the Object of his own Delight.</l>
+               <l>Ah how it do's Solace his Soul to make</l>
+               <l>Surveys upon himſelf, to ſearch and ſee</l>
+               <l>How the Impreſſion and the Seal agree?</l>
+               <l>To ſee how Glory has transform'd him all,</l>
+               <l>How the Draught anſwers the Original?</l>
+               <l>To ſee himſelf made one with <hi>God,</hi> from whom</l>
+               <l>All his ſweet Incomes and Illapſes come?</l>
+            </lg>
+            <pb n="12" facs="tcp:34157:8"/>
+            <lg>
+               <l>How do's this heighten and enhance their Bliſs?</l>
+               <l>What Tranſports do their raviſht Looks confeſs?</l>
+               <l>They tune ſo many Anthems that the Hoſt</l>
+               <l>Do ſing till Praiſe be in their Numbers loſt.</l>
+               <l>They clap their Hands and Wings for Joy, and run</l>
+               <l>In endleſs Coronets about the Throne:</l>
+               <l>And this they do with as familiar Eaſe</l>
+               <l>As they themſelves can think of what they pleaſe;</l>
+               <l>For being like Orbs, all to their Stations bound</l>
+               <l>
+                  <hi>God</hi>'s Central Magnetiſm draws them round.</l>
+               <l>Thus they are happily employ'd and feel</l>
+               <l>More Joys than we or they themſelves can tell;</l>
+               <l>Nay, they are glorified to ſuch Degree</l>
+               <l>As to affirm muſt needs be Blaſphemy.</l>
+               <l>Or high Preſumption, had not <hi>God</hi> the <hi>Lord</hi>
+               </l>
+               <l>Strongly confirm'd it in his Sacred VVord.</l>
+               <l>VVho elſe dares ſay for fear he ſhould Blaſpheme</l>
+               <l>That Saints are one with Chriſt and He with Them?</l>
+               <l>Or ſay (methinks ev'n now it ſounds profane)</l>
+               <l>They dwell in <hi>God,</hi> and <hi>God</hi> in Them I mean.</l>
+               <l>Theſe Heights of Speech (which Reaſon can't conceive</l>
+               <l>And therefore is engag'd to disbelieve)</l>
+               <l>We queſtion not, for Faith forbids Diſtruſt</l>
+               <l>And tells us This we would believe and muſt.</l>
+               <l>
+                  <hi>God</hi>'s more to Them than Souls to Bodies are</l>
+               <l>Thro' him they act, and ever acting were.</l>
+               <l>He and They truly correſpond (like Doves)</l>
+               <l>In joynt Reciprocation of Loves.</l>
+               <l>They poſſeſs Him, and are of Him poſſeſt;</l>
+               <l>Thus He in Them, and They in Him are bleſt.</l>
+               <l>From which uniting Juncture do's enſue</l>
+               <l>Immediate Intercourſe of Action too.</l>
+               <l>On Earth we Interceptions meet, but here</l>
+               <l>Their Joys with Grief ne're interrupted are;</l>
+               <l>Gladneſs is all their Soul, they can't conceive</l>
+               <l>What 'tis to be diſconſolate or grieve;</l>
+               <l>Their pamper'd Wills no Diſappointments know</l>
+               <l>They're always pleas'd and always would be ſo:</l>
+               <l>Delights no Meaſure, Joys no mixture bring;</l>
+               <l>But both from pure unwaſted Fountains Spring:</l>
+               <l>They have a Heaven fully to enjoy,</l>
+               <l>Where neither Want do's pinch, nor Plenty cloy.</l>
+               <l>Their luſcious Pleaſures ſurfeit to delight,</l>
+               <l>They always eat to gain an Appetite.</l>
+               <l>Joys in Reverſion once, are now poſſeſt;</l>
+               <l>And Love in Motion's chang'd to Love in Reſt.</l>
+               <l>Deſire is made Delight, and Hopes that were</l>
+               <l>Mixt with Miſ-givings, have Aſſurance here.</l>
+               <l>They ſwim in pleaſantneſs, and always find</l>
+               <l>Freſh Banquets to careſs and feaſt the Mind;</l>
+               <l>Nay what yet ſwells their Joy, they know its date</l>
+               <l>Is too long-liv'd for Time to terminate.</l>
+               <l>They know their Sun of Glory ſhall ne're ſet,</l>
+               <l>They'd loſe Heav'n did they fear the loſing it;</l>
+               <l>'Tis ſure for Chriſt has ſign'd it with his Blood,</l>
+               <l>And <hi>God</hi> has bail'd his Truth to make it good.</l>
+               <l>Their Paradiſe is built too firm to fall</l>
+               <l>For Truth and Promiſes compos'd it all,</l>
+               <l>Love is its Cement, Chriſt the Corner Stone,</l>
+               <l>And <hi>God</hi> the Baſis which 'tis built upon.</l>
+               <l>What great Additions do the Thoughts of This</l>
+               <l>Bring to enlarge and ſtretch their Happineſs.</l>
+               <l>To think that Heaven when Time is paſt and gone</l>
+               <l>Shall be as new as when it firſt begun:</l>
+            </lg>
+            <pb n="13" facs="tcp:34157:8"/>
+            <lg>
+               <l>That when innumerable Years are paſt</l>
+               <l>Their Joys ſhall ſtill retain their Virgin Taſt.</l>
+               <l>This makes their Mirth more pallateable ſtill,</l>
+               <l>As ſweet Infuſions in a Cordial will;</l>
+               <l>To think the Feaſt they eat ſo gladly now</l>
+               <l>Shall ſtill be plentiful and pleaſant too.</l>
+               <l>To think their Appetites ſhall ne're forbear</l>
+               <l>To be as keen as they at preſent are;</l>
+               <l>And that their Feaſt ſhall be as luſcious ſtill</l>
+               <l>And as continual as their Stomachs will;</l>
+               <l>This bleſt Aſſurance glads their Spirits more</l>
+               <l>Than any ſingle Joy they had before:</l>
+               <l>For taking thus Eternity in View</l>
+               <l>Makes all its future Pleaſures preſent too.</l>
+               <l>Each ſingle Comfort carries in its Womb</l>
+               <l>The luſcious Foretaſt of ſtill more to come.</l>
+               <l>One brings the reliſh of the reſt in hand</l>
+               <l>As <hi>Joſhua</hi>'s Grapes did of the Promis'd Land.</l>
+               <l>Their Joys are ne're adjourn'd but always near</l>
+               <l>For Expectation is Enjoyment here.</l>
+               <l>Thus all have now Eternity of Bliſs</l>
+               <l>And yet 'tis ſtill in proſpect to poſſeſs.</l>
+               <l>This aggravates their Joys and ſcrues their Thoughts,</l>
+               <l>To Heights ſcarce vented in Seraphick Notes;</l>
+               <l>Each in his proper Sphere of Duty pays</l>
+               <l>His honorary Tribute of Applauſe;</l>
+               <l>Juſt as the thankful Birds devoutly ſing</l>
+               <l>Their Mattins to the Goddeſs of the Spring;</l>
+               <l>Hymns and Hoſannahs from all Quarters ſung</l>
+               <l>Is all that can be heard amidſt the Throng.</l>
+               <l>And that muſt needs be an Harmonious Noiſe</l>
+               <l>Where Mirth and Melody do counterpoiſe;</l>
+               <l>Anthems and Halelujahs riſe in Swarms</l>
+               <l>And ſound to Praiſe as Trumpets do to Arms;</l>
+               <l>They ſing ſo ſweetly, and ſo long, they ſeem</l>
+               <l>To be all Lungs or what's inſtead of Them;</l>
+               <l>Ah with what Joy theſe jocund Spirits move</l>
+               <l>Round in the Orb of <hi>God</hi>'s ſuffuſive Love!</l>
+               <l>Their Souls ſo ſtrut with Joyfulneſs that ſome</l>
+               <l>Take up ev'n Heav'n it ſelf for Elbow-room.</l>
+               <l>Ointments of Love ſtill ſweetning as they fall</l>
+               <l>Bedew, embalm, and over-run them all:</l>
+               <l>Thus are they all delighting in their <hi>God</hi>
+               </l>
+               <l>And gladed with their Being and Abode:</l>
+               <l>Glory is ſhar'd, in common all unite</l>
+               <l>In one Community of Love and Light;</l>
+               <l>Here are no Guardians of forbidden Fruit,</l>
+               <l>But Happineſs is free and proſtitute:</l>
+               <l>Yet Bleſſedneſs has its Degrees, nay ſuch</l>
+               <l>As make the Bleſſed Spirits differ much:</l>
+               <l>Glory is carv'd and parcell'd out, but yet</l>
+               <l>Its Portions are not all commenſurate.</l>
+               <l>Heav'n is no lawleſs lev'lling Anarchy</l>
+               <l>But a Monarchical Theocriſie;</l>
+               <l>And therefore we've no reaſon to conclude</l>
+               <l>That all are uniformly Great or Good.</l>
+               <l>In Monarchies we own the King Supream,</l>
+               <l>The Princes next, the Viceroy next to Them;</l>
+               <l>And ſo thro' all Degrees which repreſent</l>
+               <l>The great Decorum of a Government.</l>
+               <l>So Here, <hi>JEHOVAH</hi> ſuperſedes the State,</l>
+               <l>Beneath his Footſtool Seraphims are ſet;</l>
+               <l>Next Cherubims, and Thrones, Dominions then,</l>
+               <l>So till we take the Hierarchy in;</l>
+               <pb n="14" facs="tcp:34157:9"/>
+               <l>As Angels, ſo no doubt but Saints do bear</l>
+               <l>Their gradual ſubordinations here;</l>
+               <l>The Elders are a Rank of Worth, but yet</l>
+               <l>Th' Apoſtles Order is tranſcending that,</l>
+               <l>For They with Chriſt as Sacred Writings tell</l>
+               <l>Shall judge the Tribes the Twelve of <hi>Iſrael:</hi>
+               </l>
+               <l>To each <hi>God</hi> gives that Portion of his Love</l>
+               <l>To which by Faith he did a Title prove:</l>
+               <l>Each Order and Degree of Grace ſhall meet</l>
+               <l>A Form in Glory that ſhall anſwer it:</l>
+               <l>He whoſe five Talents gain'd five more, and He</l>
+               <l>Whoſe Two, gat Two, do differ in Degree.</l>
+               <l>A Patron of Religion ſhall have Store</l>
+               <l>Of Glorious Dowry's but a Martyr more:</l>
+               <l>A late Repentant ſhall have Room prepar'd,</l>
+               <l>But long Obedience ſhall have large Reward.</l>
+               <l>Yet tho they differ he that has the leaſt</l>
+               <l>Has what contents his Will and fills his Breaſt</l>
+               <l>He has as much as he can graſp, his ſoul</l>
+               <l>Is complacentially ſtufft and full;</l>
+               <l>He murmurs not that other Saints have more</l>
+               <l>Or He has leaſt, but rather do's adore</l>
+               <l>In Love and Gratitude his <hi>God</hi> that gave</l>
+               <l>What He enjoys and all his Fellows have:</l>
+               <l>Such are the Dignities, they here abide</l>
+               <l>As thoſe to whom they're giv'n are qualify'd;</l>
+               <l>All their Perfections are array'd and dreſt</l>
+               <l>To ſuit thoſe Pow'rs by which they are poſſeſt:</l>
+               <l>For were they modell'd more or leſs to crave</l>
+               <l>Than by Eternal Charter they can have,</l>
+               <l>'Twould bate ſo much of Happineſs, 'twould be</l>
+               <l>The long complaint of Endleſs Miſery;</l>
+               <l>If they had more than they could bear the Weight</l>
+               <l>Finding no Powers to preponderate;</l>
+               <l>Would in the Cruelty of Kindneſs kill</l>
+               <l>And preſs their Souls from Heaven into Hell.</l>
+               <l>If leſs they'd ſtill be hunting in Purſuit</l>
+               <l>Of what muſt ever be forbidden Fruit.</l>
+               <l>Thus diſappointments would torment the Mind</l>
+               <l>Finding it ſelf for Miſery deſign'd;</l>
+               <l>So that if This, This alſo muſt be true</l>
+               <l>That Saints are happy and unhappy too.</l>
+               <l>There's none but Graduates in Grace that e're</l>
+               <l>Commenced a Degree in Glory Here.</l>
+               <l>But thoſe good Works which uſher'd in the Saints</l>
+               <l>Now being uſeleſs are excluded hence;</l>
+               <l>Mercy is needleſs in this happy ſtate</l>
+               <l>For Miſery can no Admittance get.</l>
+               <l>Here are no ſick to viſit or bemoan</l>
+               <l>For all are healthy and Immortal grown.</l>
+               <l>Here Hoſpitality unpractic'd lies</l>
+               <l>And Burial of the Dead for Nothing dies.</l>
+               <l>Here are no Foes to reconcile, no Need</l>
+               <l>Of Interceding, They are all agreed:</l>
+               <l>And ſure where works of Mercy find no Room</l>
+               <l>Thoſe of Neceſſity muſt never come.</l>
+               <l>No Heat nor Cold can ever them moleſt</l>
+               <l>For, by a wonder not to be expreſt,</l>
+               <l>That Sun who by his Heat do's them relieve</l>
+               <l>Do's by his Shadow alſo ſhelter give;</l>
+               <l>Thro' Exerciſe they neither ſleep nor faint</l>
+               <l>Becauſe their Labours no Repoſe do's want.</l>
+            </lg>
+            <pb n="15" facs="tcp:34157:9"/>
+            <lg>
+               <l>Their hardeſt Work is eaſie to Delight</l>
+               <l>And ne're impairs but re-inforces Might;</l>
+               <l>And as their Pow'r is able ſo their Will</l>
+               <l>Is likewiſe vigorous and active ſtill;</l>
+               <l>Love conſecrates their Services and Zeal</l>
+               <l>Gives Oil and Motion unto Duties Wheel:</l>
+               <l>Nor is it ſervile to obey the Saints</l>
+               <l>While they ſubmit are in their Elements;</l>
+               <l>Nay they attend <hi>Gods</hi> Will as much or more</l>
+               <l>Than Artick Needles do the Magnet's Pow'r.</l>
+               <l>And being delighted in the Work they do</l>
+               <l>They act in Reſt, and reſt in Action too.</l>
+               <l>Their Wills are tun'd to <hi>Gods,</hi> and all in One</l>
+               <l>Do Eccho in Conſent when his is known.</l>
+               <l>Theſe and innumerable Millions more</l>
+               <l>Of unknown Pleaſures treaſur'd up in ſtore,</l>
+               <l>Are plentifully on the Saints beſtow'd</l>
+               <l>By their free-hearted openhanded <hi>God.</hi>
+               </l>
+               <l>It can't be thought with what Delight they move</l>
+               <l>In endleſs Circles of repeated Love:</l>
+               <l>With what exalted Melody they ſing</l>
+               <l>The Song of <hi>Canaan</hi> unto <hi>Judah</hi>'s King:</l>
+               <l>Their diſſolved Souls ev'n drop in Mirth and Zeal,</l>
+               <l>And run as Metals melt with Lightning will:</l>
+               <l>Pleaſure is all they know or do poſſeſs</l>
+               <l>They breath no Air but Joy and Happineſs:</l>
+               <l>Now Glory Triumphs, Praiſe is fully Crown'd,</l>
+               <l>And Songs of Jubilee (whoſe joyous ſound</l>
+               <l>Eccho's in Tune) are raviſhingly Sung</l>
+               <l>By the joynt Voices of the Jolly Throng:</l>
+               <l>Joys do commence the Height of Heights and flow</l>
+               <l>From Springs that neither Banks nor Bottom know.</l>
+               <l>Their Souls are loſt like Things in an Abyſs,</l>
+               <l>In Trances of ungovernable Bliſs;</l>
+               <l>Their Joys ne're fail them, but are ſtill renew'd</l>
+               <l>In endleſs Tranſports of Beatitude.</l>
+               <l>For this they ever bleſs their <hi>God,</hi> and ſeem</l>
+               <l>As ſacrific'd in Flames of Love to him.</l>
+            </lg>
+            <lg>
+               <l>Let Silence ſpeak the reſt and Faith believe</l>
+               <l>'Tis far beyond their Hopes what Saints receive;</l>
+               <l>Our Thoughts of Glory are too dwarfiſh ſtill</l>
+               <l>And all drop ſhort as charmed Bullets will;</l>
+               <l>'Tis neither Faith nor Fancy can pretend</l>
+               <l>To know its Height or Depth, its Breadth or End.</l>
+               <l>The only Thought that can deſcribe this State,</l>
+               <l>Is to think what you cannot Think, <hi>'Tis That.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="16" facs="tcp:34157:10"/>
+            <head>THE REVIEW.</head>
+            <lg>
+               <l>IS it thus then? Is all that Reaſon ſaith</l>
+               <l>As ſhort of Heav'n as Folly is of Faith?</l>
+               <l>Is Glory hid from our preſumptuous ſight</l>
+               <l>By the dark Vail of its obſcuring Light?</l>
+               <l>Do's Reaſon after Tryal made, confeſs</l>
+               <l>Its Depth unfathomably Bottomleſs?</l>
+               <l>And is my Soul whom Toys and Follies pleaſe</l>
+               <l>Born Heir expectant of ſuch Joys as theſe?</l>
+               <l>Will Faith and Patience by an Act of Grace</l>
+               <l>Entitle me to this Triumphant Place?</l>
+               <l>Farewel all ſublunary Joys, be gon</l>
+               <l>You empty Shadows I once doted on.</l>
+               <l>All Earths evanid Glories I deſpiſe,</l>
+               <l>Here are no Objects that ſhall tempt my Eyes.</l>
+               <l>I am reſolv'd to follow and purſue</l>
+               <l>The Heav'n which Faith not Fancy leads me to.</l>
+               <l>'Tis thee, O God I will deſign who art</l>
+               <l>The Peace and Portion of my Better Part.</l>
+               <l>Farewel ye fruitleſs Vanity of Youth</l>
+               <l>The frothy Fits of Pride and Paſſion both:</l>
+               <l>Farewel thoſe thrifty and ambitious Crimes</l>
+               <l>Which paſs for Virtues in theſe Modiſh Times.</l>
+               <l>What's an Eſtate that I ſhould toil and ſweat</l>
+               <l>Or pawn this Happineſs to purchaſe it?</l>
+               <l>Miſers are happy only in their dream</l>
+               <l>When fancy'd Heaps of Riches real ſeem,</l>
+               <l>For when the Viſionary cheat is o're</l>
+               <l>With a rich Sigh they Sigh for waking Poor.</l>
+               <l>What is a Name? 'Tis Nothing in diſguiſe,</l>
+               <l>A Bubble dreſt in gilded Vanities;</l>
+               <l>There's Nothing ſolid in it to be found,</l>
+               <l>'Tis empty Things that yield and ſpread a ſound;</l>
+               <l>The Noiſe that do's from Mens Applauſes come</l>
+               <l>Is like the empty Loudneſs of a Drum.</l>
+               <l>Theſe Toys ſo highly priz'd, ſo much embrac't</l>
+               <l>By ſome, I once more bid Farewel in Haſt:</l>
+               <l>Farewel my Friends and dear Enjoyments too,</l>
+               <l>Nay I muſt bid my former ſelf adieu.</l>
+               <l>I have but one thing of this World to crave</l>
+               <l>And that's the parting Kindneſs of a Grave;</l>
+               <l>If I muſt pay for't, I'le not give Receipt</l>
+               <l>But leave my Body Pris'ner for the Debt.</l>
+               <l>I am deſign'd, if nothing ſpoils my Aim,</l>
+               <l>A Pilgrim to the New <hi>Jeruſalem.</hi>
+               </l>
+               <l>This is my Purpoſe, and I hope 'twill ſtand</l>
+               <l>Till I ſet Footing in the <hi>Holy Land:</hi>
+               </l>
+               <l>Let <hi>Egypt</hi> be forgotten and forſook</l>
+               <l>I wont give <hi>Sodom</hi> a recanting Look.</l>
+               <l>But let the progreſs of my Journey ſhew</l>
+               <l>That I was willing and Believing too.</l>
+               <l>Mount then my Soul and make thy full Career</l>
+               <l>Ne're ſtop till thou muſt ſtop thy Courſer there.</l>
+               <l>Lift up thy lowly Stature now and View</l>
+               <l>What 'tis the Promiſes invite Thee to?</l>
+               <l>Rouze up thy ſelf, ſhake of theſe Bands that keep</l>
+               <l>Thy Pow'rs entomb'd in a Lethargic ſleep.</l>
+               <l>Get th' Innocence and Pinions of a Dove</l>
+               <l>Then clip away unto thy Reſt above:</l>
+            </lg>
+            <pb n="17" facs="tcp:34157:10"/>
+            <lg>
+               <l>But why ſo Careleſs, Sluggiſh and remiſs</l>
+               <l>In Buſineſs ſo importunate as this?</l>
+               <l>Ah how I'm plagu'd with an unwilling Mind!</l>
+               <l>It ſhews Averſeneſs while it lags behind!</l>
+               <l>Doſt ſin or ſleep out all thy Days, and yet</l>
+               <l>Hope to awake in this moſt joyous State?</l>
+               <l>Wouldſt thou have Holineſs perfected there</l>
+               <l>But hate to have't initiated here?</l>
+               <l>Ah Carnal Madneſs! how its Actions run</l>
+               <l>Quite to unravel what thy Hopes had ſpun?</l>
+               <l>Has he a Harveſt that neglects to Sow?</l>
+               <l>Do Oaks ariſe where Acorns never grow?</l>
+               <l>Come then adjourn theſe unbelieving Dreams</l>
+               <l>Earth is not ſuch a Heaven as it ſeems.</l>
+               <l>Doſt not perceive what fatal Dangers nigh</l>
+               <l>Life lies moſt open in a cloſed Eye.</l>
+               <l>Shake off theſe drowſie Humors and prepare</l>
+               <l>For the accounting at the Judgement Bar!</l>
+               <l>Don't think that Heaven is the Gift of Fate,</l>
+               <l>That Souls are ſav'd as chance ſhall arbitrate;</l>
+               <l>But know thy Actions Good or Bad muſt take</l>
+               <l>That Retribution which thy Judge ſhall make.</l>
+               <l>Now thou'rt Probationer for that Reward</l>
+               <l>Which <hi>God</hi> has for the Virtuous prepar'd.</l>
+               <l>The Elements of Glory muſt be wrought</l>
+               <l>On Earth, its ſeed muſt be by Grace begot,</l>
+               <l>A Gracious Frame and Dispoſition Here</l>
+               <l>Is the promotive of a Glorious There:</l>
+               <l>Well then be wiſe and buſily employ</l>
+               <l>The Preſent Seeds-time of Eternal Joy!</l>
+            </lg>
+            <lg>
+               <l>But while I reaſon thus my Soul do's mourn</l>
+               <l>And Sighs me out this ſorrowful Return.</l>
+               <l>My Pow'rs are feeble, and my ſtrength is weak.</l>
+               <l>When I've a Will, I want a Tongue to ſpeak.</l>
+               <l>I look to Heaven with a longing Eye</l>
+               <l>Spreading my willing Wings but cannot flye.</l>
+               <l>I ſtrive to riſe but my Attempts are vain</l>
+               <l>Or if I do Earth tugs me down again:</l>
+               <l>Sometimes my Paſſions ſo pervert my Will</l>
+               <l>That when I know the Good I choſe the Ill.</l>
+               <l>A pious Purpoſe ſeldom comes to good</l>
+               <l>Some croſs Temptation nips it in the Bud.</l>
+               <l>Sometimes a ſuddain Flaſh of Sacred Heat</l>
+               <l>Inflames my Temper to a Zealous ſweat</l>
+               <l>But ſuddainly this haſty Fit goes o're</l>
+               <l>And then my Heart grows lifeleſs as before;</l>
+               <l>As a young Exhalation newly fled</l>
+               <l>Aſpiring upwards ſcorns its duſty Bed</l>
+               <l>And ſtrait means Heav'n, but cooling into Rain</l>
+               <l>Becomes more purſie and drops down again;</l>
+               <l>Juſt ſo's my Love, at its firſt lanching out</l>
+               <l>It ſcorns I ſhould its Perſeverance doubt,</l>
+               <l>'Tis ſo preſumptious and ſo hot withal,</l>
+               <l>'Twont take Diſcretion for a Social;</l>
+               <l>But as it mount this ſhort-liv'd Heat abates</l>
+               <l>Paſſion declines and Zeal degenerates.</l>
+               <l>Its haſty Proffers were too nice and young</l>
+               <l>To bear the Hardſhip of Attendance long;</l>
+               <l>And thus my Love unfeather'd when it fled</l>
+               <l>Wants Wings to bear it whither it decreed;</l>
+               <l>Then Carnal Thoughts to their own Center bound,</l>
+               <l>Firſt make it Earthy, and then drag it down:</l>
+               <l>And thus my State too evidently ſuch</l>
+               <l>Calls more for Help and Pity than Reproach.</l>
+            </lg>
+            <pb n="18" facs="tcp:34157:11" rendition="simple:additions"/>
+            <lg>
+               <l>Poor helpleſs Slave, to thee, O Chriſt I cry</l>
+               <l>Who had <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fleſhly Cage as well as I.</l>
+               <l>O give <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſet the Captive free,</l>
+               <l>And teach <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> uſe my Liberty;</l>
+               <l>Let no good <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Praiſe, nor Will to Love,</l>
+               <l>For want of thee to help, Abortive prove.</l>
+               <l>Favour ſuch Actions, let their Progreſs ſhew</l>
+               <l>Thy kind Acceptance and Concurrence too.</l>
+               <l>Firſt hallow my Affections, then excite</l>
+               <l>Some vigorous Energy and Appetite;</l>
+               <l>Then give a Pow'r whoſe un-reſiſted Force,</l>
+               <l>May bear me out in a Religious Courſe;</l>
+               <l>Firſt cleanſe my Soul, then bid thy Spirit come</l>
+               <l>And make the Cloſet of my Heart its Home.</l>
+               <l>Then I ſhall have ſome previous Guſts and feel</l>
+               <l>The complacential Reliſhes of Zeal:</l>
+               <l>Why ſhould I richly ſtarve, or hungry live,</l>
+               <l>When Hopes and Promiſes ſuch Plenty give?</l>
+               <l>Let me know ſometimes by an Antepaſt</l>
+               <l>How ſweet Heav'ns Joys in Prelibation taſt.</l>
+               <l>Shed ſome Illapſes of thy Love, impart</l>
+               <l>Some Interviews of Glory to my Heart!</l>
+               <l>Why is thy Image vail'd? 'Tis ſeldom ſeen</l>
+               <l>So much Eclipſe, but when Sins intervene:</l>
+               <l>If that's the cauſe let Mercy's Beams affright</l>
+               <l>Theſe Helliſh Clouds that make ſo black a Night.</l>
+               <l>Unmask thy Viſage, not to weak-ey'd Senſe</l>
+               <l>But give my better ſighted Faith a Glance:</l>
+               <l>Give me ſome Pledge by which I may be ty'd</l>
+               <l>Leaſt Carnal Scruples plead my Bargain void;</l>
+               <l>Nay I am apt to Merchandiſe away</l>
+               <l>A future Kingdom for a preſent Toy.</l>
+               <l>Feed me with Promiſes, when that won't do't</l>
+               <l>Let Faith be chewing on an Attribute;</l>
+               <l>Let neither Fears nor Unbelief prevent</l>
+               <l>My firm Aſſurance nor my full Conſent.</l>
+               <l>But let Faith guide me by a skilfull hand,</l>
+               <l>And guard my Paſſage to the Promis'd Land.</l>
+               <l>Keep my Soul praying, and diſpoſe it that</l>
+               <l>Its intermittent Pulſe thy Praiſes beat.</l>
+               <l>Give me ſuch Courage as ſhall make me fit</l>
+               <l>To cope with all Diſcouragements I meet;</l>
+               <l>Such full Belief as ſhall not leave me Room</l>
+               <l>To doubt the Truth or Worth of Joys to come;</l>
+               <l>Such Patience as ſhall make me calmly wait</l>
+               <l>The happy time of my Exchange of State;</l>
+               <l>Till when I'le joy in hope of what ſhall be</l>
+               <l>Fully unboſom'd and reveal'd to me.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34157:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
